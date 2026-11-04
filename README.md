@@ -27,24 +27,24 @@ Currently building my programming skills through personal projects, competitive 
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vuduykhoaxd&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vuduykhoaxd&theme=tokyonight" height="165" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Contribution Activity" />
+  <img src="https://streak-stats.demolab.com?user=vuduykhoaxd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### Contact
 
 <p align="left">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/vuduykhoaxd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:vuduykhoaxd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/1322910204198916096">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
